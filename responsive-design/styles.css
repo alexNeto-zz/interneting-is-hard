@@ -71,6 +71,25 @@
   background-color: #C8C6FA;
 }
 
+/* .illustration {
+  width: 100%;
+} */
+.illustration img {
+  width: 100%;
+  display: block;
+}
+
+.header {
+  height: auto;
+  justify-content: inherit;
+  align-items: inherit;
+}
+
+.photo img {
+  width: 100%;
+  display: block;
+}
+
 /* Tablet Styles */
 @media only screen and (min-width: 401px) and (max-width: 960px) {
 
